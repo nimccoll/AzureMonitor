@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryVMActivityLog", "Query
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryVMActivityLogREST", "QueryVMActivityLogREST\QueryVMActivityLogREST.csproj", "{DA6A384F-73B6-4B09-AFCC-3B5AF5CBA3A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryResourceGraphREST", "QueryResourceGraphREST\QueryResourceGraphREST.csproj", "{A65F9A89-E375-4D94-92F8-C4B84165DA57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA6A384F-73B6-4B09-AFCC-3B5AF5CBA3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA6A384F-73B6-4B09-AFCC-3B5AF5CBA3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA6A384F-73B6-4B09-AFCC-3B5AF5CBA3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65F9A89-E375-4D94-92F8-C4B84165DA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65F9A89-E375-4D94-92F8-C4B84165DA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65F9A89-E375-4D94-92F8-C4B84165DA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65F9A89-E375-4D94-92F8-C4B84165DA57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
